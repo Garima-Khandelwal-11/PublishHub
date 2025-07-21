@@ -20,19 +20,17 @@
 
 Here's a glimpse of PublishHub in action:
 
-**Welcome Page:**
-Our inviting landing page, guiding users to either publish or read articles, and introducing the platform's core purpose.
-<img width="1454" height="819" alt="image" src="https://github.com/user-attachments/assets/dd081c34-4ad0-421e-ac78-771b32b3c29c" />
-
-
 **Authentication:**
 Securely sign in with your email and password, or conveniently use Google OAuth for a seamless login experience.
-<img width="1909" height="624" alt="image" src="https://github.com/user-attachments/assets/8621b68e-0720-460e-83f2-1d5b55e1533f" />
+<img width="1890" height="808" alt="image" src="https://github.com/user-attachments/assets/e267713b-fe43-4a65-9621-e7c58ad659d1" />
 
+**Welcome Page:**
+Our inviting landing page, guiding users to either publish or read articles, and introducing the platform's core purpose.
+<img width="1909" height="624" alt="image" src="https://github.com/user-attachments/assets/22554957-5ed2-4ead-a98e-ddc5d5a46f9e" />
 
 **User Dashboard & Profile:**
 A personalized hub where users can manage their profile information, access their articles, view comments, and control account settings.
-<img width="1890" height="808" alt="image" src="https://github.com/user-attachments/assets/cad240b6-3cce-487b-8e22-2e69ab7ed1ea" />
+<img width="1645" height="544" alt="image" src="https://github.com/user-attachments/assets/cfe58153-e060-4c73-926e-20c3f90bdccd" />
 
 
 ## 💻 Tech Stack
