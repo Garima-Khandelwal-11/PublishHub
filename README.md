@@ -21,11 +21,6 @@
   * **⚡ Performance Optimized Deployment:**
       * Deployed on **Render**, leveraging **Cron jobs** to significantly reduce loading time by **95%**, effectively mitigating Render’s 15-minute inactivity sleep rule.
 
-## 🚀 Demo
-
-  * **Demo Video:** [Link to your Demo Video on YouTube or other platform] (Please replace with your actual link)
-  * **Live Website:** [Link to your Live Website on Render] (Please replace with your actual link)
-
 ## 🛠️ Technologies Used
 
   * **Frontend:**
@@ -121,14 +116,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## 📄 License
-No specific license applied
-
-## 📞 Contact
-
-Garima Khandelwal - [garimakhandelwal077@gmail.com] - [[Your LinkedIn Profile URL](https://www.linkedin.com/in/garima-khandelwal-4b3967269/)]
-
-Project Link: [https://github.com/Garima-Khandelwal-1/PublishHub](https://www.google.com/search?q=https://github.com/Garima-Khandelwal-1/PublishHub)
-
------
