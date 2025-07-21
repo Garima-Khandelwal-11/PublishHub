@@ -34,7 +34,12 @@ A personalized hub where users can manage their profile information, access thei
 
 **Article View with AI & Translation:**
 Experience our innovative features directly on an article page, including AI summarization and instant multi-language translation.
-<img width="954" height="659" alt="image" src="https://github.com/user-attachments/assets/8859d1fe-89a0-43e7-812b-920ff97a9bd1" />
+<img width="1486" height="856" alt="image" src="https://github.com/user-attachments/assets/c829186f-478f-4888-827d-aa83928fa1a2" />
+<img width="949" height="805" alt="image" src="https://github.com/user-attachments/assets/c9413fb8-5078-4e6f-9720-7274613f7263" />
+<img width="1749" height="810" alt="image" src="https://github.com/user-attachments/assets/1dc396f7-31d7-48fe-8493-419d786e945d" />
+
+
+
 
 
 ## 💻 Tech Stack
