@@ -32,6 +32,10 @@ Our inviting landing page, guiding users to either publish or read articles, and
 A personalized hub where users can manage their profile information, access their articles, view comments, and control account settings.
 <img width="1645" height="544" alt="image" src="https://github.com/user-attachments/assets/cfe58153-e060-4c73-926e-20c3f90bdccd" />
 
+**Article View with AI & Translation:**
+Experience our innovative features directly on an article page, including AI summarization and instant multi-language translation.
+<img width="954" height="659" alt="image" src="https://github.com/user-attachments/assets/8859d1fe-89a0-43e7-812b-920ff97a9bd1" />
+
 
 ## 💻 Tech Stack
 
